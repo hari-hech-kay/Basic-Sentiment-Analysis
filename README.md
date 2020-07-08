@@ -1,5 +1,6 @@
 # Basic-Sentiment-Analysis
 A basic sentiment analysis project developed as neural network classfication model using keras and tensorflow.
+*This project was done as part of a Coursera Guided Project.*
 
 This model uses the **IMDB reviews dataset** provided by keras. 
 The dataset consists of 50000 reviews with 25000 reviews as training data and another 25000 as test data. 
